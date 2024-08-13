@@ -1,0 +1,107 @@
+URL: https://www.scholars4dev.com/4765/malaysian-international-scholarships/
+
+Failed to send scholarship data to API: Malaysia International Scholarships (MIS)
+Last updated: 03 Mar 2014 | CLOSED
+Gov’t of Malaysia
+Masters/PhD/PostDoc
+Deadline: 31 March 2015
+Study in: Malaysia
+Course starts 2015
+Brief description: [ad#contentadtext]
+The Malaysia International Scholarship (MIS) for International Students is an initiative by the Malaysian Government to attract the best brains from around the world to pursue advance
+d academic studies in Malaysia. This scholarship aims to support Malaysian Government’s effort to attract, motivate and retain talented human capital from abroad.
+Host Institution(s):
+Malaysian Public and Private Universities
+Field(s) of study:
+This scholarship is divided into two (2) categories of study: Postgraduate and Post-doctoral Studies. Field of studies are in the following priority areas:
+a) Science and Engineering
+b) Agriculture and Fisheries
+c) Economics and Islamic Finance
+d) Information and Communication Technology
+e) Biotechnology
+f) Biosecurity and Food Safety
+g)  Infrastructure and Utility
+h) Environmental Studies
+i)  Health including but not limited to, nursing, medicine, clinical pharmacy
+*Applicants may choose any related course within the field/areas mentioned above
+Number of Scholarships:
+Not specified
+Target group:
+Talented international students with excellent academic records and outstanding co-curricular backgrounds
+Scholarship value/inclusions:
+Each scholarship consists of:
+a) Air tickets from recipient’s capital city to Malaysia
+b) An approved tuition fees
+c) Monthly maintenance allowance
+d) Annual grant for books and internal travel
+e) Medical / Health Insurance
+f) Installation and Termination grant
+g) Thesis allowance
+h) Visa
+Eligibility:
+To be eligible for Malaysia International Scholarship (MIS), applicants must fit the following criteria:-
+a) Not be more than 40 years (Postgraduate) and 45 years (Post-doctoral) of age during application.
+b) Obtained a minimum of Second Class Upper (Honours) or a CGPA of 3.5/4.0 at Bachelor Degree Level for Masters Degree applicants and for PhD candidates must possess CGPA 3.5/4.0 or v
+ery good result at Masters degree level in a similar field of intended PhD study. In addition, for post-doctoral programme, the selection will be evaluated based on the number of book
+s produced, refereed/non refereed journals, portfolio and patent copyright. The Post-Doctoral candidate must have excellent reputation in research and possesses knowledge related to t
+he research to be carried out.
+c) Took one of the following English Language Proficiency Test not more than two years before the date of application. The list of tests and minimum scores required:
+– IELTS Academic Test with a score of at least 6.5; or
+– TOEFL paper-based test with a score of at least 580 or computer-based test with a score of at least 230 or internet-based test with a score at least 92.
+d) In excellent health condition and certified by a Certified Doctor/Medical Professional. The cost of medical examination is to be borne by the applicants
+e)  Wrote a proposal that is relevant to the field of studies.
+f) Has applied for and gained admission to postgraduate and post-doctoral studies in Malaysia (conditional letters of offer will be accepted at the time of application or has a confir
+mation of acceptance or affiliation with the universities in Malaysia).
+Application instructions:
+Applications are currently closed.
+All applications should be made ONLINE through Ministry of Higher Education’s website starting from from 01 January 2015 until 31 March 2015.It is important to visit the official webs
+ite (link found below) to access the online application form and for detailed information on how to apply for this scholarship.
+Website:
+Official Scholarship Website:  https://biasiswa.moe.gov.my/INTER/index.php
+Related Scholarships: List of Government Scholarships for Foreign Students
+Disclaimer: This is NOT the official scholarship page. This is only a one-page summarized listing of the scholarship. While we endeavor to keep the information up to date and correct,
+ information may change at any time without notice. For complete and updated information, please always refer to the official website of the scholarship provider. Any reliance you pla
+ce on information from scholars4dev.com is strictly at your own risk. Please read our Terms of Use for more information.
+
+OpenAI response: {
+    "name": "Malaysia International Scholarships (MIS)",
+    "description": "The Malaysia International Scholarship (MIS) for International Students is an initiative by the Malaysian Government to attract the best brains from around the wor
+ld to pursue advanced academic studies in Malaysia. This scholarship aims to support Malaysian Government’s effort to attract, motivate and retain talented human capital from abroad."
+,
+    "type_id": "Masters/PhD/PostDoc",
+    "exam_detail": "",
+    "ielt": true,
+    "minimum_ielts": "6.5",
+    "overall_ielts": "6.5",
+    "toefl": true,
+    "toefl_ibt_score": "92",
+    "toefl_pbt_score": "580",
+    "gpa": "3.5/4.0",
+    "ielts_condition": "not_specified",
+    "toefl_condition": "not_specified",
+    "gender": "",
+    "status": "CLOSED",
+    "max_age": "40 years (Postgraduate) / 45 years (Post-doctoral)",
+    "experiences": "",
+    "experience_detail": "",
+    "sat_act": "",
+    "gre_gmat": "",
+    "amount": "",
+    "deadline": "31 March 2015",
+    "requirement": "Minimum GPA of 3.5/4.0, English language proficiency, relevant proposal, admission to Malaysian university",
+    "benefit": "Air tickets, tuition fees, maintenance allowance, grant for books and internal travel, medical insurance, installation and termination grant, thesis allowance, visa", 
+    "source_link": "https://biasiswa.moe.gov.my/INTER/index.php",
+    "document": "",
+    "apply": "Applications are currently closed. All applications should be made ONLINE through Ministry of Higher Education’s website starting from 01 January 2015 until 31 March 201
+5.",
+    "interview_detail": "",
+    "days_remaining": "",
+    "id": null,
+    "image_url": "",
+    "thumbnail_url": "",
+    "majors": ["Science and Engineering", "Agriculture and Fisheries", "Economics and Islamic Finance", "Information and Communication Technology", "Biotechnology", "Biosecurity and F
+ood Safety", "Infrastructure and Utility", "Environmental Studies", "Health"],
+    "degrees": ["Masters", "PhD", "Post-Doctoral"],
+    "countries": ["Malaysia"],
+    "study_modes": []
+}

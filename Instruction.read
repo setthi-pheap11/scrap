@@ -1,0 +1,16 @@
+About Scrapping Data by Python
+    1- install Python and the library selenium 
+    2- use chorm driver or edge driver
+    3- install openAI driver 
+    4- when install or import all library 
+    5- the result of code when scrapped data, data has been sent to open API for correct format following Jason of API 
+       -after correcting the openAI, we will send the correct data by API
+    7- the last result has 2 ways to send to API and CSV 
+About code 
+	use .env for store API from openAI 
+	on code call .env openAI to use
+
+    i have write detail about proccess of code 
+    step by step on code file : Folder ->Test->Scholarar4dev_send_openai.py
+	
+    

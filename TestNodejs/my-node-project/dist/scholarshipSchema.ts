@@ -1,0 +1,38 @@
+export interface ScholarshipResponse {
+    name: string;
+    description: string;
+    type_id: string;
+    exam_detail: string;
+    ielt: boolean;
+    minimum_ielts: string;
+    overall_ielts: string;
+    toefl: boolean;
+    toefl_ibt_score: string;
+    toefl_pbt_score: string;
+    gpa: string;
+    ielts_condition: string;
+    toefl_condition: string;
+    gender: string;
+    status: string;
+    max_age: number | null;
+    experiences: string;
+    experience_detail: string;
+    sat_act: string;
+    gre_gmat: string;
+    amount: string;
+    deadline: string;
+    requirement: string;
+    benefit: string;
+    source_link: string;
+    document: string;
+    apply: string;
+    interview_detail: string;
+    days_remaining: string;
+    id: number | null;
+    image_url: string;
+    thumbnail_url: string;
+    majors: string[];
+    degrees: string[];
+    countries: string[];
+    study_modes: string[];
+}

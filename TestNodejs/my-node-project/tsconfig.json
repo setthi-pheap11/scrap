@@ -1,0 +1,25 @@
+// {
+//   "compilerOptions": {
+//     "target": "es6",
+//     "module": "commonjs",
+//     "strict": true,
+//     "esModuleInterop": true,
+//     "resolveJsonModule": true,
+//     "outDir": "./dist"
+//   },
+//   "include": ["trywithtypechat.ts"],
+//   "exclude": ["node_modules"]
+// }
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "Node16",
+    "strict": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "node16",  // Or "nodenext"
+    "outDir": "./dist"
+  },
+  "include": ["src/trywithtypechat.ts"],
+  "exclude": ["node_modules"]
+}
